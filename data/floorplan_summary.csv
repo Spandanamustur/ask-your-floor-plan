@@ -1,0 +1,11 @@
+floorplan,total_rooms,room_types
+0_7881beechcraftavegaithersburgmdunitedstatessuiteb_0SMALL,31,"{'office': 9, 'storage_room': 2, 'bathroom': 6, 'kitchen': 1, 'break_room': 1, 'conference_room': 3, 'hall_room': 4, 'reception': 1, 'workspace': 2, 'open_area': 1, 'lobby': 1}"
+19735244,62,"{'storage_room': 9, 'bathroom': 5, 'office': 32, 'reception': 8, 'hall_room': 5, 'lobby': 1, 'kitchen_room': 1, 'service_area': 1}"
+1_SOFTCOM_HEAD_OFFICE_GROUND_FLOOR_PLAN,31,"{'bathroom': 7, 'rest_room': 2, 'workspace': 2, 'open_office': 1, 'office': 4, 'corridor': 8, 'lobby': 3, 'conference_room': 1, 'hall_room': 1, 'reception': 1, 'service_area': 1}"
+31279453,20,"{'office': 11, 'conference_room': 1, 'lobby': 2, 'reception': 1, 'workspace': 2, 'service_area': 1, 'corridor': 2}"
+3bf8b6990bda390bbab8f5abbe2ad3b7,27,"{'lobby': 2, 'service_area': 5, 'kitchen': 1, 'office': 11, 'storage_room': 3, 'corridor': 2, 'bathroom': 3}"
+4c103c4a4bbcd651b5f051705fabc5db,12,"{'office': 7, 'bathroom': 1, 'kitchen': 1, 'file_room': 1, 'rest_room': 1, 'corridor': 1}"
+5337397,6,"{'living_room': 1, 'bed_room': 2, 'corridor': 1, 'kitchen': 1, 'bathroom': 1}"
+floorplan,14,"{'office': 6, 'bathroom': 2, 'lobby': 2, 'hall_room': 1, 'coffee_area': 1, 'atrium': 1, 'rest_room': 1}"
+loopnet3,42,"{'open_office': 1, 'office': 16, 'break_room': 1, 'atrium': 1, 'service_area': 9, 'conference_room': 2, 'mechanical_room': 2, 'lobby': 5, 'rest_room': 2, 'corridor': 2, 'storage_room': 1}"
+os-uploads.s3.amazonaws.com%2F8ab0%2Fa280%2F72a3%2F2459%2Ffull,11,"{'hall_room': 1, 'rest_room': 3, 'workspace': 1, 'corridor': 1, 'office': 5}"
